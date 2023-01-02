@@ -1,19 +1,12 @@
-LiuUI is just a project that I do when I am free. It is just a user interface for 4DOS. Well, it is quite interesting if you are crazy at DOS or you wish
-to have your own operating system (simulator).
+LiuUI is just a project that I do when I am free. It is just a user interface for 4DOS. Well, it is quite interesting if you are crazy at DOS or you wish to have your own operating system (simulator).
 
-Its UI looks like a GUI, but it is base on application names WBAT (Horst Schaeffer) (yeah, this is very cool if you use it to make windows). In addition,
-thanks to a number of features and internal variable of 4DOS, the batch file structures are very very flexible, it helps us write much better batch programmes
-than Command Prompt and MS-DOS do. PAY ATTENTION : They are not safe to run on our real computer, because they are not compatible with Command Prompt (although
-they are also .bat files). They usually work with folders at %path% and %temp%, and %path% are very important folders in our computer. Do not try to do it!
+Its UI looks like a GUI, but it is base on application names WBAT (Horst Schaeffer) (yeah, this is very cool if you use it to make windows). In addition, thanks to a number of features and internal variable of 4DOS, the batch file structures are very very flexible, it helps us write much better batch programmes than Command Prompt and MS-DOS do. PAY ATTENTION : They are not safe to run on our real computer, because they are not compatible with Command Prompt (although they are also .bat files). They usually work with folders at %path% and %temp%, and %path% are very important folders in our computer. Do not try to do it!
 
-Besides, there are other important DOS applications : Quick View (a media player via PC Speaker), Edit.com (like Notepad), Turbo Pascal (yeah I think
-you have known it already), (so on)...
+Besides, there are other important DOS applications : Quick View (a media player via PC Speaker), Edit.com (like Notepad), Turbo Pascal (yeah I think you have known it already), (so on)...
 
 It supports 2 languages : English and Vietnamese (my first language). I do not intend to add any one else, it is enough ;)
 
-It also has a (dummy) virtual assistant named Sweetie (I named her). Her communicating skill is still bad, and she even does not know what is LOVE =)). You can
-chat with her in Command prompt with Sweetie chatbot mode. Just type something like "Sweetie I am happy now" (No ",", ":", ";" and others), she will answer you.
-EXCEPT things that out of her work, he he he...
+It also has a (dummy) virtual assistant named Sweetie (I named her). Her communicating skill is still bad, and she even does not know what is LOVE =)). You can chat with her in Command prompt with Sweetie chatbot mode. Just type something like "Sweetie I am happy now" (No ",", ":", ";" and others), she will answer you. EXCEPT things that out of her work, he he he...
 
 It still has many features that I am developing, ha ha! I will update them as fast as I can...
 
